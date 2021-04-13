@@ -1,0 +1,5 @@
+PHOENIX14T: [Koller, O., Forster, J., & Ney, H. (2015). Continuous sign language recognition: Towards large vocabulary statistical recognition systems handling multiple signers. Computer Vision and Image Understanding, 141, 108-125](https://www.researchgate.net/publication/284070363_Continuous_sign_language_recognition_Towards_large_vocabulary_statistical_recognition_systems_handling_multiple_signers)
+
+~STMC Glosses: [Zhou, H., Zhou, W., Zhou, Y., & Li, H. (2020). Spatial-temporal multi-cue network for continuous sign language recognition. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 34, No. 07, pp. 13009-13016).](https://ojs.aaai.org/index.php/AAAI/article/view/7001/6855).~
+
+~ASLG: [Othman, A., & Jemni, M. (2013). English-asl gloss parallel corpus 2012: Aslg-pc12. In 5th Workshop on the Representation and Processing of Sign Languages: Interactions between Corpus and Lexicon LREC.](https://pdfs.semanticscholar.org/473f/ffb95c3db24938a21346ecd117a8a9204404.pdf)~
